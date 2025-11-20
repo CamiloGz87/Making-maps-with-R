@@ -1,5 +1,4 @@
-# Generación de Mapas Temáticos en R: Ejemplo Aplicado a Prestadores de Servicios
-  de Salud en Colombia
+# Generación de Mapas Temáticos en R: Ejemplo Aplicado a Prestadores de Servicios de Salud en Colombia
 Proyectos de visualización de datos geoespaciales y cartografía generados mediante librerías de R
 
 ## Introducción
