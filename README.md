@@ -1,26 +1,6 @@
-# Making-maps-with-R
+# Generación de Mapas Temáticos en R: Ejemplo Aplicado a Prestadores de Servicios
+  de Salud en Colombia
 Proyectos de visualización de datos geoespaciales y cartografía generados mediante librerías de R
-
----
-title: 'Generación de Mapas Temáticos en R: Ejemplo Aplicado a Prestadores de Servicios
-  de Salud en Colombia'
-subtitle: "[C. Camilo González](https://www.linkedin.com/in/cristiancamilogonzalezmarinco)"
-author: "camilo3144@gmail.com"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true        # activar índice
-    toc_float: true  # que sea flotante (como en la imagen)
-    number_sections: true  # opcional: numerar secciones
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(
-	echo = TRUE,
-	message = FALSE,
-	warning = FALSE
-)
-```
 
 ## Introducción
 
